@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>INFINYT3D | Coming Soon</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+body{
+    background:#0d1117;
+    color:#fff;
+    line-height:1.7;
+}
+
+header{
+    background:linear-gradient(135deg,#0d1117,#1f2937);
+    padding:70px 20px;
+    text-align:center;
+}
+
+.logo{
+    width:120px;
+    margin-bottom:20px;
+}
+
+header h1{
+    font-size:48px;
+    margin-bottom:15px;
+    color:#4da3ff;
+}
+
+header p{
+    max-width:800px;
+    margin:10px auto;
+    color:#d1d5db;
+    font-size:18px;
+}
+
+.btn{
+    display:inline-block;
+    margin-top:30px;
+    padding:12px 28px;
+    background:#4da3ff;
+    color:#fff;
+    text-decoration:none;
+    border-radius:8px;
+}
+
+section{
+    max-width:1100px;
+    margin:auto;
+    padding:70px 20px;
+}
+
+.card{
+    background:#161b22;
+    padding:35px;
+    border-radius:12px;
+    margin-bottom:35px;
+}
+
+h2{
+    color:#4da3ff;
+    margin-bottom:20px;
+}
+
+ul{
+    padding-left:20px;
+}
+
+footer{
+    background:#161b22;
+    text-align:center;
+    padding:40px 20px;
+    color:#bbb;
+}
+
+@media(max-width:768px){
+header h1{
+font-size:36px;
+}
+}
+</style>
+
+</head>
+<body>
+
+<header>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj4BIv84S53p-89pXu34pdHJjgPi5kOGMPz_tGS6wrglltKmTl82NkTTE&s=10" class="logo" alt="INFINYT3D Logo">
+
+<h1>🚀 Something Great is Coming!</h1>
+
+<p>
+Our new website is currently under development.
+</p>
+
+<p>
+At <strong>INFINYT3D</strong>, we're building a modern platform to showcase our innovative solutions in
+Design Engineering, Product Development, 3D Printing, Robotics, Artificial Intelligence,
+Electronics, IoT and STEAM Education.
+</p>
+
+<a href="#contact" class="btn">Contact Us</a>
+
+</header>
+
+<section>
+
+<div class="card">
+
+<h2>About INFINYT3D</h2>
+
+<p>
+INFINYT3D is an innovation and engineering company dedicated to transforming ideas into reality through advanced technologies and practical engineering solutions.
+</p>
+
+<br>
+
+<p>
+We empower students, startups, educational institutions, industries and innovators by providing professional services in product development, digital manufacturing, engineering design and technology education.
+</p>
+
+<br>
+
+<p>
+Our mission is to inspire creativity, innovation and future-ready skills by combining engineering excellence with modern manufacturing technologies.
+</p>
+
+</div>
+
+<div class="card">
+
+<h2>Our Services</h2>
+
+<ul>
+<li>3D Printing</li>
+<li>Product Design & Development</li>
+<li>CAD Design</li>
+<li>Rapid Prototyping</li>
+<li>Reverse Engineering</li>
+<li>Robotics</li>
+<li>Artificial Intelligence</li>
+<li>Electronics & IoT</li>
+<li>Coding Programs</li>
+<li>STEAM Education</li>
+<li>Innovation Lab Setup</li>
+<li>Industry & School Partnerships</li>
+</ul>
+
+</div>
+
+<div class="card">
+
+<h2>Why Choose INFINYT3D?</h2>
+
+<ul>
+<li>Professional Engineering Team</li>
+<li>Advanced Manufacturing Technologies</li>
+<li>High Quality Solutions</li>
+<li>Fast Project Delivery</li>
+<li>Industry Experience</li>
+<li>Support from Idea to Final Product</li>
+</ul>
+
+</div>
+
+<div class="card" id="contact">
+
+<h2>Contact Us</h2>
+
+<p>
+Have a project or enquiry? Fill out the form below and our team will get back to you shortly.
+</p>
+
+<br>
+
+<p>Transforming Ideas Into Reality</p>
+
+<p>📍 Verna, Goa</p>
+
+<p>📞 +91 9975937476</p>
+
+<p>✉️ rojan@infinyt3d.com</p>
+
+</body>
+</html>
